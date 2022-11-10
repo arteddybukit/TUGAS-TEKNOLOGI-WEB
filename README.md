@@ -1,5 +1,4 @@
 # TUGAS-TEKNOLOGI-WEB
-<h3 align="left">RESPONSIVE WEB</h3>
 <h4 align="left">ARTEDDY ROVER BUKIT</h4>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Connect with me:</h3>
